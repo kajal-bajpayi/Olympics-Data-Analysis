@@ -1,3 +1,5 @@
 # Olympics-Data-Analysis
 
-It analysis data of olympics from 1990 - 2020
+#### Data Visualization using Power BI 
+![image](https://github.com/user-attachments/assets/cb0b29ac-75c0-4bc7-b829-e09045f2b9e4)
+
